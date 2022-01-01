@@ -1,4 +1,5 @@
 #!/bin/bash
+# credit poyo
 blanco='\033[38;5;231m'
 amarillo='\033[38;5;228m'
 azul='\033[38;5;14m'
